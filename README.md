@@ -32,7 +32,7 @@
 
 ```yaml
 name: Emre Ersin
-role: Full-Stack & Backend Developer
+role: Full-Stack Mobile & Backend Developer
 passions: [Distributed Systems, Clean Architecture, Mobile Apps, AI Workflows]
 current_focus: Building production-ready APIs with .NET & FastAPI
 quote: "Building projects, learning every day, and improving step by step."
